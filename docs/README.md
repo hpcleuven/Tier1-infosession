@@ -1,17 +1,17 @@
 # Tier-1 infosession
 
 ## Content
-BrENIAC infrastructure
-Hortense infrastructure
-2021 proposal guidelines
-New regulations in 2021
-Proposal limits
-Starting grants
-Who can apply
-How to write a good proposal
-Scaling tips
-Table calculations
-Collaborative grants
+- BrENIAC infrastructure
+- Hortense infrastructure
+- 2021 proposal guidelines
+- New regulations in 2021
+- Proposal limits
+- Starting grants
+- Who can apply
+- How to write a good proposal
+- Scaling tips
+- Table calculations
+- Collaborative grants
 
 
 ## Target
